@@ -2,9 +2,6 @@
 # [2.0.0-beta.1](https://github.com/zalando/dress-code/compare/2.0.0-beta...v2.0.0-beta.1) (2016-12-08)
 
 
-* Topic/dev deps (#229) ([664b465](https://github.com/zalando/dress-code/commit/664b465))
-
-
 ### Bug Fixes
 
 * **accordion:** remove triangle icon, use border hack instead ([69fe37c](https://github.com/zalando/dress-code/commit/69fe37c))
