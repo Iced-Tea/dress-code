@@ -77,18 +77,6 @@
     background: $dc-yellow60 !important;
 }
 
-//  ---------------------------------------------------------------------------
-//
-//  This class is for text elements that are not so important and
-//	appear in a less intrusive way
-//
-//  ---------------------------------------------------------------------------
-
-@mixin dc--less-important {
-    color: $dc-gray50 !important;
-}
-
-
 
 //  ---------------------------------------------------------------------------
 //
@@ -199,10 +187,6 @@
 
     .dc--is-important {
         @include dc--is-important;
-    }
-
-    .dc--less-important {
-        @include dc--less-important;
     }
 
     .dc--island-50 {
