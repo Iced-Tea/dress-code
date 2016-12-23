@@ -163,7 +163,7 @@
     white-space: nowrap;
 }
 
-@mixin dc-patterns-selectors {
+@mixin dc-utilities-selectors {
 
     .dc--is-collapsed {
         @include dc--is-collapsed;
@@ -201,6 +201,10 @@
         @include dc--is-important;
     }
 
+    .dc--less-important {
+        @include dc--less-important;
+    }
+
     .dc--island-50 {
         @include dc--island-50;
     }
@@ -229,7 +233,7 @@
         @include dc--text-error;
     }
 
-    .dc--text--eft {
+    .dc--text--left {
         @include dc--text-left;
     }
 

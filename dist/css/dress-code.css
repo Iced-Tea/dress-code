@@ -382,6 +382,10 @@ body {
   background: #ffeb7a !important;
 }
 
+.dc--less-important {
+  color: #b6b6b6 !important;
+}
+
 .dc--island-50 {
   padding: 0.4rem;
 }
@@ -413,7 +417,7 @@ body {
   color: #ff4a25;
 }
 
-.dc--text--eft {
+.dc--text--left {
   text-align: left;
 }
 
@@ -1701,8 +1705,8 @@ body {
 
 @font-face {
   font-family: "DressCodeIcons";
-  src: url("../fonts/DressCodeIcons.eot?v=2.0.0-beta");
-  src: url("../fonts/DressCodeIcons.eot?#iefix") format("eot"), url("../fonts/DressCodeIcons.woff?v=2.0.0-beta") format("woff"), url("../fonts/DressCodeIcons.ttf?v=2.0.0-beta") format("truetype"), url("../fonts/DressCodeIcons.svg?v=2.0.0-beta#DressCodeIcons") format("svg");
+  src: url("../fonts/DressCodeIcons.eot?v=2.0.0-beta.1");
+  src: url("../fonts/DressCodeIcons.eot?#iefix") format("eot"), url("../fonts/DressCodeIcons.woff?v=2.0.0-beta.1") format("woff"), url("../fonts/DressCodeIcons.ttf?v=2.0.0-beta.1") format("truetype"), url("../fonts/DressCodeIcons.svg?v=2.0.0-beta.1#DressCodeIcons") format("svg");
 }
 
 .dc-icon:before {
